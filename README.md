@@ -2,7 +2,7 @@
 
 ---
 
-- >A collection of Java programs covering basic to advanced concepts.
+- A collection of Java programs covering basic to advanced concepts.
 
 ---
 
